@@ -83,7 +83,8 @@ author:
   name             : "Haoye Lu"
   avatar           : "profile.png"
   bio              : "PhD Student in machine learning <a href='https://cs.uwaterloo.ca'>@uWaterloo</a> / <a href='https://vectorinstitute.ai'>@Vector Institute </a>"
-  location         : " <a href='https://www.google.com/maps?q=43.4729045,-80.5427065'> Waterloo, ON </a>"
+  location         : "Waterloo, ON"
+  locationlink     : "https://www.google.com/maps?q=43.4729045,-80.5427065"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9-SXtYQAAAAJ&hl=en"
