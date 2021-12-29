@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Haoye Lu"
   avatar           : "profile.png"
-  bio              : "PhD Student in machine learning <br> <a href='https://cs.uwaterloo.ca'>@uWaterloo</a> <br> <a href='https://vectorinstitute.ai'>@Vector Institute </a>"
-  location         : "<a href='https://www.google.com/maps/place/David+R.+Cheriton+School+of+Computer+Science/@43.4720297,-80.5427746,17.63z/data=!4m13!1m7!3m6!1s0x882bf41d17fd2453:0x30fec4d067f7c48d!2s200+University+Ave+W,+Waterloo,+ON+N2L+3G1!3b1!8m2!3d43.4717512!4d-80.5459129!3m4!1s0x882bf6aa23a029c9:0xfd5e955751e1b81d!8m2!3d43.4729045!4d-80.5427065'>Waterloo, ON</a>"
+  bio              : "PhD Student in machine learning <a href='https://cs.uwaterloo.ca'>@uWaterloo</a> and <a href='https://vectorinstitute.ai'>@Vector Institute </a>"
+  location         : "<a href='https://www.google.com/maps?q=43.4729045,-80.5427065'>Waterloo, ON</a>"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9-SXtYQAAAAJ&hl=en"
