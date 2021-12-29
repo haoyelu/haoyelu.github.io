@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haoye Lu"
   avatar           : "profile.png"
-  bio              : "PhD Student at uWaterloo/Vector Institute"
+  bio              : "PhD Student <a href="https://cs.uwaterloo.ca">@uWaterloo</a> / Vector Institute"
   location         : "Waterloo, ON"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haoyelu"
+  github           : "haoyelu"
   google_plus      :
   keybase          :
   instagram        :
