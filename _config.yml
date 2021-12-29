@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Haoye Lu"
   avatar           : "profile.png"
-  bio              : "PhD Student <a href='https://cs.uwaterloo.ca'>@uWaterloo</a> <br> <a href='https://vectorinstitute.ai'>@Vector Institute </a>"
+  bio              : "PhD Student <br> <a href='https://cs.uwaterloo.ca'>@uWaterloo</a> <br> <a href='https://vectorinstitute.ai'>@Vector Institute </a>"
   location         : "Waterloo, ON"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9-SXtYQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
