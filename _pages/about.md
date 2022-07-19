@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Haoye’s Homepage! (The website is under construction.)"
+title: "Welcome to Haoye’s Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
