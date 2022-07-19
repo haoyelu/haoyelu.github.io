@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. -->
+
+
+I am a first-year  Ph.D. student at the [University of Waterloo](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) and [Vector Institute](https://vectorinstitute.ai), supervised by Prof. [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/index.html). Ahead of this, I obtained my Master's degree in Computer Science and Joint Honours Bachelor's degree in Computer Science and Mathematics from the [University of Ottawa](https://www2.uottawa.ca/en). During my time in Ottawa, I was supervised by Prof. [Amiya Nayak](https://www.site.uottawa.ca/~anayak/) and also worked with Prof. [Yongyi Mao](https://www.site.uottawa.ca/~yymao/) and Prof. [Maia Fraser](https://mysite.science.uottawa.ca/mfrase8/bio.htm). 
+
+I am currently working on theoretical frameworks for training multi-objective reinforcement learning models; however, I also like to dabble in other areas of machine learning.
+
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
